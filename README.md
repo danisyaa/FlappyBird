@@ -1,1 +1,1 @@
-Simple Games to the game programmer application qualifications
+Simple Games to the Game Programmer Application Qualifications
